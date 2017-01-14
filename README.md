@@ -14,3 +14,5 @@
 ### Finally, the app asks for a confirmation from the user. Once this is done, a Thank You message is displayed and the SQL database is updated!
 
 ![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print2.jpg?raw=true)
+
+![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print3.jpg?raw=true)
