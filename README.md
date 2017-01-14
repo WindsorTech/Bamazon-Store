@@ -15,4 +15,4 @@
 
 ![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print2.jpg?raw=true)
 
-![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print3.jpg?raw=true)
+![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print4.jpg?raw=true)
