@@ -1,7 +1,7 @@
 # Welcome to Bamazon!
 ## Here you will find the best products for the lowest prices and fastest delivery!
 
-The app is working seamlessly, when run it displays all the items in the Bamazon inventory table, as well as the products' IDs and prices.
+The app is working seamlessly! When run, it displays all the items in the Bamazon inventory table, as well as the products' IDs and prices.
 
 It prompts the user to enter the desired product ID, and also asks how many items of the product he wants to purchase.
 
@@ -11,5 +11,4 @@ After that, the app shows a sale summary stating the Product Name, Price, Quanti
 
 Finally, the app asks for a confirmation from the user. Once this is done, a Thank You message is displayed.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print1.jpg?raw=true)
