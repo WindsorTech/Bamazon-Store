@@ -1,7 +1,7 @@
 # Welcome to Bamazon!
 ## Here you will find the best products for the lowest prices and fastest delivery!
 
-### The app is working seamlessly! When run, it displays all the items in the Bamazon inventory table - including the products' IDs, Names and Prices.
+### The app is working seamlessly! When run, it displays all the items in the Bamazon inventory table, listing the products' IDs, Names and Prices.
 
 ### It prompts the user to enter the desired product ID, and also asks how many items of the product he wants to purchase.
 
