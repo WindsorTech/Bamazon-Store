@@ -1,13 +1,13 @@
 {
   "name": "week-12-bamazon",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print1.jpg?raw=true)",
   "main": "BamazonCustomer.js",
   "dependencies": {
+    "console.table": "^0.8.0",
     "inquirer": "^2.0.0",
     "mysql": "^2.12.0",
-    "prompt": "^1.0.0",
-    "console.table": "^0.8.0"
+    "prompt": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
