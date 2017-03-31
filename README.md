@@ -5,7 +5,7 @@
 
 ### It prompts the user to enter the desired product ID, and also asks how many items of the product he wants to purchase.
 
-![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print1.jpg?raw=true)
+![Bamazon App](https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print1.jpg?raw=true)
 
 ### If the quantity entered by the user is not in stock, the app displays: Insufficient Quantity!
 
@@ -13,6 +13,6 @@
 
 ### Finally, the app asks for a confirmation from the user. Once this is done, a Thank You message is displayed and the SQL database is updated!
 
-![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print2.jpg?raw=true)
+![Bamazon App](https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print2.jpg?raw=true)
 
-![Bamazon App] (https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print4.jpg?raw=true)
+![Bamazon App](https://github.com/windsor80/week-12-bamazon/blob/master/bamazon-print4.jpg?raw=true)
